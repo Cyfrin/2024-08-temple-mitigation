@@ -43,7 +43,7 @@ contracts/
 |   9   | contracts/templegold/TempleTeleporter.sol |  38   |  Temple Teleporter transfers Temple token cross-chain with layer zero integration |
 |     |  |  998   |  |
 
-[//]: # (scope-open)
+[//]: # (scope-close)
 
 ## Not in Scope
 - Any findings from previous audits are out of scope
